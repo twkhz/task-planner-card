@@ -21,7 +21,7 @@ Die Task Planner Card ist eine anpassbare benutzerdefinierte Karte für Home Ass
 ### Manuelle Installation
 
 1. Kopiere die Dateien aus dem `dist` Ordner
-2. Platziere sie in `config/custom_component/task_planer/`
+2. Platziere sie in `config/custom_component/task_planner/`
 3. Platziere die Datei im frontend Ordner unter 'config/www/task-planner-card/
 4. Füge in der Home Assistant Konfiguration hinzu:
    ```yaml
@@ -39,7 +39,7 @@ In der `configuration.yaml`:
 ```yaml
 task_planner:
   users:
-    - name: Susi
+    - name: Helen
       role: Kind
       usericon: mdi:user
       tasks:
