@@ -4,7 +4,7 @@
 
 Die Task Planner Card ist eine anpassbare benutzerdefinierte Karte für Home Assistant, die ein umfassendes Aufgaben- und Belohnungssystem für Familien oder Haushalte bietet.
 
-![Task Planner Card Preview](preview.png)
+![Task Planner Card Preview](preview.jpg)
 
 ## Funktionen
 
